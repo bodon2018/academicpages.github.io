@@ -23,20 +23,22 @@ Projects
 =======
 
 ### Sports Sense 
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository.
+Investigating sports and physical education as an space to build student and coaches perceptions and interest in
+computer science. For more information check out this [site](https://tiilt.northwestern.edu/projects/sportsanalytics/index.html). 
 
 ### Online Dissemination of Science
-The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+Studying who is more likely to share and discuss retracted papers on Twitter before a scientific article is retracted. For more information check out this [site](https://link.soc.northwestern.edu/research/science-of-science-research/). 
 
 Community Service 
 =======
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+I enjoy working with community orgs that work on education and envieromental science. I spent two years as a Commonwealth Scholar at the University of Pittsburgh. During my undergrad education I was president of a student organization that spread awareness on enviromental topics to members of the school. Advised underrepresented students on computing careers through virtual and in-person interactions. Visited 36 high schools in Puerto Rico to present educational content on computational sciences. Attended four conferences to advise undergraduate students on graduate school.
 
 Teaching
 =======
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+I developed and presented educational material for older adults (60+) and youths in the Homewood Community Engagement Center in Pitssburgh. 
+
 
 Personal 
 =======
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+I am southern Puerto Rico. I enjoy playing sports, and outdoors.
 
