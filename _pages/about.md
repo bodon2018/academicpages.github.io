@@ -40,5 +40,5 @@ I developed and presented educational material for older adults (60+) and youths
 
 Personal 
 =======
-I am southern Puerto Rico. I enjoy playing sports, and outdoors.
+I am from southern Puerto Rico. I enjoy playing sports, and outdoors.
 
