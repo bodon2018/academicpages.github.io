@@ -31,7 +31,7 @@ Studying who is more likely to share and discuss retracted papers on Twitter bef
 
 Community Service 
 =======
-I enjoy working with community orgs that work on education and envieromental science. I spent two years as a Commonwealth Scholar at the University of Pittsburgh. During my undergrad education I was president of a student organization that spread awareness on enviromental topics to members of the school. Advised underrepresented students on computing careers through virtual and in-person interactions. Visited 36 high schools in Puerto Rico to present educational content on computational sciences. Attended four conferences to advise undergraduate students on graduate school.
+I enjoy working with community organizationss that work on education and environmental topics. Some of my work includes advising students on computing careers through virtual and in-person interactions. During my undergrad education I was president of a student organization that spread awareness on enviromental topics to members of the school. 
 
 Teaching
 =======
