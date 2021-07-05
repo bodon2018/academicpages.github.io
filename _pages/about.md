@@ -13,12 +13,11 @@ I work with [Marcelo Worsley](http://marceloworsley.com/) in the [tiilt lab](htt
 
 Publications
 ------
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-3. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-5. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-6. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-7. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-9. Check status by going to the repository settings, in the "GitHub pages" section
+1. Platt, Edward; Bodon, Herminio; Romero, Daniel. (2019). Harnessing Diversity in Large Groups: An Agent-Based Model. ACM CSCW 2019.
+2. Bodon, Herminio; Bustamante, Pedro; Gomez, Marcela; Krishnamurthy, Prashant; et al. (2019). Ostrom amongst the Machines: Blockchain as a Knowledge Commons. Cosmos + Taxis in 2020.
+3. Gomez, Marcela; Bustamante, Pedro; Weiss, Martin; Bodon, Herminio; et al. (2019). Is Blockchain the next step in the Evolution Chain of Brokers? TPRC47.
+4. Sanchez, Chelsea; Franjione, Paige; Parker, Jalin; Brinner, Zachery; Bodon, Herminio; Bahm, Cristina. (2018). Understanding Landmarks in Spatial Information: Using Sentiment to Provide Context. iConference 2019.
+
 
 Projects
 ------
