@@ -21,7 +21,6 @@ Publications
 
 Projects
 =======
-
 ### Sports Sense 
   Investigating sports and physical education as an space to build student and coaches perceptions and interest in
   computer science. For more information check out this [site](https://tiilt.northwestern.edu/projects/sportsanalytics/index.html). 
