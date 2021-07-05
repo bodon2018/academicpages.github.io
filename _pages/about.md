@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. Herminio is a PhD student in the Technology and Social Behavior program. His research interests are in expansive learning opportunities for students from under-served communities, and collective reasoning in socio-technical systems. Herminio earned a MS in Information Science from the University of Pittsburgh, and BS in Liberal Arts from the Pontifical Catholic University of Puerto Rico.
+Herminio is a PhD student in the Technology and Social Behavior program [Technology and Social Behavior program](https://github.com/academicpages/academicpages.github.io). His research interests are in expansive learning opportunities for students from under-served communities, and collective reasoning in socio-technical systems. Herminio earned a MS in Information Science from the University of Pittsburgh, and BS in Liberal Arts from the Pontifical Catholic University of Puerto Rico.
 
 Publications
 ======
