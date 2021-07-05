@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Herminio is a PhD student in the Technology and Social Behavior program [Technology and Social Behavior program](https://github.com/academicpages/academicpages.github.io). His research interests are in expansive learning opportunities for students from under-served communities, and collective reasoning in socio-technical systems. Herminio earned a MS in Information Science from the University of Pittsburgh, and BS in Liberal Arts from the Pontifical Catholic University of Puerto Rico.
+Herminio is a PhD student in the Technology and Social Behavior program [Technology and Social Behavior program](https://tsb.northwestern.edu/tsb-program/). His research interests are in expansive learning opportunities for students from under-served communities, and collective reasoning in socio-technical systems. Herminio earned a MS in Information Science from the University of Pittsburgh, and BS in Liberal Arts from the Pontifical Catholic University of Puerto Rico.
 
 Publications
 ======
