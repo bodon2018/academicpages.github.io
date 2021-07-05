@@ -23,22 +23,22 @@ Projects
 =======
 
 ### Sports Sense 
-Investigating sports and physical education as an space to build student and coaches perceptions and interest in
-computer science. For more information check out this [site](https://tiilt.northwestern.edu/projects/sportsanalytics/index.html). 
+  Investigating sports and physical education as an space to build student and coaches perceptions and interest in
+  computer science. For more information check out this [site](https://tiilt.northwestern.edu/projects/sportsanalytics/index.html). 
 
 ### Online Dissemination of Science
-Studying who is more likely to share and discuss retracted papers on Twitter before a scientific article is retracted. For more information check out this [site](https://link.soc.northwestern.edu/research/science-of-science-research/). 
+  Studying who is more likely to share and discuss retracted papers on Twitter before a scientific article is retracted. For more information check out this [site](https://link.soc.northwestern.edu/research/science-of-science-research/). 
 
 Community Service 
 =======
-I enjoy working with community organizationss that work on education and environmental topics. Some of my work includes advising students on computing careers through virtual and in-person interactions. During my undergrad education I was president of a student organization that spread awareness on enviromental topics to members of the school. 
+  I enjoy working with community organizationss that work on education and environmental topics. Some of my work includes advising students on computing careers through virtual and in-person interactions. During my undergrad education I was president of a student organization that spread awareness on enviromental topics to members of the school. 
 
 Teaching
 =======
-I developed and presented educational material for older adults (60+) and youths in the Homewood Community Engagement Center in Pitssburgh. 
+  I developed and presented educational material for older adults (60+) and youths in the Homewood Community Engagement Center in Pitssburgh. 
 
 
 Personal 
 =======
-I am from southern Puerto Rico. I enjoy playing sports, and outdoors.
+  I am from southern Puerto Rico. I enjoy playing sports, and outdoors.
 
