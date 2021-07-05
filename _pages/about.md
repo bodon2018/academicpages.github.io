@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 I am a PhD student in the Technology and Social Behavior program [Technology and Social Behavior program](https://tsb.northwestern.edu/tsb-program/). My research interests are in expansive learning opportunities for students from under-served communities, and collective reasoning in socio-technical systems. 
-Herminio is a PhD student in the Technology and Social Behavior program [Marcelo Worsley](http://marceloworsley.com/) in the [Tilt lab](https://tiilt.northwestern.edu/). Herminio earned a MS in Information Science from the University of Pittsburgh, and BS in Liberal Arts from the Pontifical Catholic University of Puerto Rico.
+I work with [Marcelo Worsley](http://marceloworsley.com/) in the [Tilt lab](https://tiilt.northwestern.edu/), and [Agnes Horvat](http://www.agneshorvat.info/) in the [Link lab](https://link.soc.northwestern.edu/). I earned a MS in Information Science from the University of Pittsburgh, and BS in Liberal Arts from the Pontifical Catholic University of Puerto Rico. 
 
 Publications
 ------
@@ -22,12 +22,7 @@ Publications
 
 Projects
 ------
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
 
 Teaching
 ------
