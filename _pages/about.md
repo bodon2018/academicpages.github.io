@@ -8,8 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student in the Technology and Social Behavior program [Technology and Social Behavior program](https://tsb.northwestern.edu/tsb-program/). My research interests are in expansive learning opportunities for students from under-served communities, and collective reasoning in socio-technical systems. 
-I work with [Marcelo Worsley](http://marceloworsley.com/) in the [tiilt lab](https://tiilt.northwestern.edu/), and [Agnes Horvat](http://www.agneshorvat.info/) in the [Link lab](https://link.soc.northwestern.edu/). I earned a MS in Information Science from the University of Pittsburgh, and BS in Liberal Arts from the Pontifical Catholic University of Puerto Rico. Click [here](https://drive.google.com/drive/folders/1DgWIjp86ahIvt9AQFRCAs7vnoxrrJ_Pf?usp=sharing) for my CV.
+I am a PhD student in the [Technology and Social Behavior program](https://tsb.northwestern.edu/tsb-program/), a joint program in Computer Science and Communication. My research interests are in expansive learning opportunities for students from under-served communities, and collective reasoning in socio-technical systems. I work with [Marcelo Worsley](http://marceloworsley.com/) in the [tiilt lab](https://tiilt.northwestern.edu/), and [Agnes Horvat](http://www.agneshorvat.info/) in the [Link lab](https://link.soc.northwestern.edu/). I earned a MS in Information Science from the University of Pittsburgh, and BS in Liberal Arts from the Pontifical Catholic University of Puerto Rico. Click [here](https://drive.google.com/drive/folders/1DgWIjp86ahIvt9AQFRCAs7vnoxrrJ_Pf?usp=sharing) for my CV.
 
 Publications
 =======
@@ -21,12 +20,11 @@ Publications
 
 Projects
 =======
-### Sports Sense 
-  Investigating sports and physical education as an space to build student and coaches perceptions and interest in
-  computer science. For more information check out this [site](https://tiilt.northwestern.edu/projects/sportsanalytics/index.html). 
-
-### Online Dissemination of Science
-  Studying who is more likely to share and discuss retracted papers on Twitter before a scientific article is retracted. For more information check out this [site](https://link.soc.northwestern.edu/research/science-of-science-research/). 
+1. Sports Sense: 
+    Investigating sports and physical education as an space to build student and coaches perceptions and interest in
+    computer science. For more information check out this [site](https://tiilt.northwestern.edu/projects/sportsanalytics/index.html).  
+2. Online Dissemination of Science
+    Studying who is more likely to share and discuss retracted papers on Twitter before a scientific article is retracted. For more information check out this [site](https://link.soc.northwestern.edu/research/science-of-science-research/). 
 
 Community Service 
 =======
