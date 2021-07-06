@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student in the [Technology and Social Behavior program](https://tsb.northwestern.edu/tsb-program/), a joint program in Computer Science and Communication. My research interests are in expansive learning opportunities for students from under-served communities, and collective reasoning in socio-technical systems. I work with [Marcelo Worsley](http://marceloworsley.com/) in the [tiilt lab](https://tiilt.northwestern.edu/), and [Agnes Horvat](http://www.agneshorvat.info/) in the [link lab](https://link.soc.northwestern.edu/). I earned a MS in Information Science from the University of Pittsburgh, and BS in Liberal Arts from the Pontifical Catholic University of Puerto Rico. Below you will find an overview of my work. For more information click [here](https://drive.google.com/drive/folders/1DgWIjp86ahIvt9AQFRCAs7vnoxrrJ_Pf?usp=sharing) to see my CV, or send me an email at bodon[at]u.northwestern.edu
+I am a PhD student in the [Technology and Social Behavior program](https://tsb.northwestern.edu/tsb-program/), a joint program in Computer Science and Communication Studies. My research interests are in expansive learning opportunities for students from under-served communities, and collective reasoning in socio-technical systems. I work with [Marcelo Worsley](http://marceloworsley.com/) in the [tiilt lab](https://tiilt.northwestern.edu/), and [Agnes Horvat](http://www.agneshorvat.info/) in the [link lab](https://link.soc.northwestern.edu/). I earned a MS in Information Science from the University of Pittsburgh, and BS in Liberal Arts with a minor in Entrepernurship from the Pontifical Catholic University of Puerto Rico. Below you will find an overview of my work. For more information click [here](https://drive.google.com/drive/folders/1DgWIjp86ahIvt9AQFRCAs7vnoxrrJ_Pf?usp=sharing) to see my CV, or send me an email at bodon[at]u.northwestern.edu
 
 ### Publications
 
@@ -28,13 +28,14 @@ I am a PhD student in the [Technology and Social Behavior program](https://tsb.n
 
 ### Teaching
 
-  I taught developed and presented educational material for older adults (60+) and youths in the Homewood Community Engagement Center in Pitssburgh. 
+  I enjoy making technology accesible to all. Before Northwestern, I worked with youths to teach them about technology and computational thinking at the Grayson Center in the Hill District, and taught tech skills to the elderly at the Pittsburgh’s Community Engagement Center in Homewood.
+  
   
 ### Community Service 
 
-  I enjoy working with community organizationss that work on education. Some of my work includes advising underrepresented students on computing careers through virtual and in-person interactions, and visiting high schools to present basics of CS.
+  I enjoy working with community organizations that focus on cs education, and assissting communities adopt technology to improve their opperations. Some of my work includes advising underrepresented students on computing careers through virtual and in-person interactions, visiting high schools to present basics of cs, and assisting a medical facility in upgrading their electronic records system.
 
 ### Personal 
 
-  I am from southern Puerto Rico. I enjoy playing sports and outdoors.
+  I am from southern Puerto Rico. I enjoy playing sports and outdoors. My mother was a teacher in special education. 
 
