@@ -10,15 +10,15 @@ redirect_from:
 
 I am a PhD student in the [Technology and Social Behavior program](https://tsb.northwestern.edu/tsb-program/), a joint program in Computer Science and Communication. My research interests are in expansive learning opportunities for students from under-served communities, and collective reasoning in socio-technical systems. I work with [Marcelo Worsley](http://marceloworsley.com/) in the [tiilt lab](https://tiilt.northwestern.edu/), and [Agnes Horvat](http://www.agneshorvat.info/) in the [link lab](https://link.soc.northwestern.edu/). I earned a MS in Information Science from the University of Pittsburgh, and BS in Liberal Arts from the Pontifical Catholic University of Puerto Rico. Below you will find an overview of my work. For more information click [here](https://drive.google.com/drive/folders/1DgWIjp86ahIvt9AQFRCAs7vnoxrrJ_Pf?usp=sharing) to see my CV, or send me an email at bodon[at]u.northwestern.edu
 
-Publications
------
+### Publications
+
 1. Platt, Edward; Bodon, Herminio; Romero, Daniel. (2019). Harnessing Diversity in Large Groups: An Agent-Based Model. ACM CSCW 2019.
 2. Bodon, Herminio; Bustamante, Pedro; Gomez, Marcela; Krishnamurthy, Prashant; et al. (2019). Ostrom amongst the Machines: Blockchain as a Knowledge Commons. Cosmos + Taxis in 2020.
 3. Gomez, Marcela; Bustamante, Pedro; Weiss, Martin; Bodon, Herminio; et al. (2019). Is Blockchain the next step in the Evolution Chain of Brokers? TPRC47.
 4. Sanchez, Chelsea; Franjione, Paige; Parker, Jalin; Brinner, Zachery; Bodon, Herminio; Bahm, Cristina. (2018). Understanding Landmarks in Spatial Information: Using Sentiment to Provide Context. iConference 2019.
 
 
-Projects
+Projects 
 -----
 1. Sports Sense: 
     Investigating sports and physical education as an space to build student and coaches perceptions and interest in
