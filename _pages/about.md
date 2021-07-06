@@ -33,7 +33,7 @@ I am deeply passionate about providing experiences to learning cs, and using com
   
 ### Community Service 
 
-  An important aspect of my work is to partner with community organizations that focus on cs education, and/or seek to adopt technology to improve their processes. Some of my work includes advising underrepresented students on computing careers through virtual and in-person interactions, visiting high schools to present basics of cs, and assisting a medical facility in upgrading their electronic records system.
+  An important aspect of my work is to partner with community organizations interested in cs education, and/or seek to adopt technology to improve their processes. Some of my work includes advising underrepresented students on computing careers through virtual and in-person interactions, visiting high schools to present basics of cs, and assisting a medical facility in upgrading their electronic records system.
 
 ### Personal 
 
