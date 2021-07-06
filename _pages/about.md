@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student in the [Technology and Social Behavior program](https://tsb.northwestern.edu/tsb-program/), a joint program in Computer Science and Communication. My research interests are in expansive learning opportunities for students from under-served communities, and collective reasoning in socio-technical systems. I work with [Marcelo Worsley](http://marceloworsley.com/) in the [tiilt lab](https://tiilt.northwestern.edu/), and [Agnes Horvat](http://www.agneshorvat.info/) in the [Link lab](https://link.soc.northwestern.edu/). I earned a MS in Information Science from the University of Pittsburgh, and BS in Liberal Arts from the Pontifical Catholic University of Puerto Rico. Click [here](https://drive.google.com/drive/folders/1DgWIjp86ahIvt9AQFRCAs7vnoxrrJ_Pf?usp=sharing) for my CV.
+I am a PhD student in the [Technology and Social Behavior program](https://tsb.northwestern.edu/tsb-program/), a joint program in Computer Science and Communication. My research interests are in expansive learning opportunities for students from under-served communities, and collective reasoning in socio-technical systems. I work with [Marcelo Worsley](http://marceloworsley.com/) in the [tiilt lab](https://tiilt.northwestern.edu/), and [Agnes Horvat](http://www.agneshorvat.info/) in the [Link lab](https://link.soc.northwestern.edu/). I earned a MS in Information Science from the University of Pittsburgh, and BS in Liberal Arts from the Pontifical Catholic University of Puerto Rico. Below you will find an overview of my work, for more information Click [here](https://drive.google.com/drive/folders/1DgWIjp86ahIvt9AQFRCAs7vnoxrrJ_Pf?usp=sharing) to see my CV or reach out to [me](bodon@u.northwestern.edu)
 
 Publications
 =======
@@ -23,17 +23,16 @@ Projects
 1. Sports Sense: 
     Investigating sports and physical education as an space to build student and coaches perceptions and interest in
     computer science. For more information check out this [site](https://tiilt.northwestern.edu/projects/sportsanalytics/index.html).  
-2. Online Dissemination of Science
+2. Online Dissemination of Science:
     Studying who is more likely to share and discuss retracted papers on Twitter before a scientific article is retracted. For more information check out this [site](https://link.soc.northwestern.edu/research/science-of-science-research/). 
-
-Community Service 
-=======
-  I enjoy working with community organizationss that work on education and environmental topics. Some of my work includes advising students on computing careers through virtual and in-person interactions. During my undergrad education I was president of a student organization that spread awareness on enviromental topics to members of the school. 
 
 Teaching
 =======
   I developed and presented educational material for older adults (60+) and youths in the Homewood Community Engagement Center in Pitssburgh. 
-
+  
+Community Service 
+=======
+  I enjoy working with community organizationss that work on education and environmental topics. Some of my work includes advising underrepresented students on computing careers through virtual and in-person interactions, visiting high schools to present basics of CS, and creating programming on enviromental topics to instituions of
 
 Personal 
 =======
