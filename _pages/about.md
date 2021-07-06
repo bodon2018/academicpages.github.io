@@ -33,9 +33,9 @@ I am deeply passionate about providing experiences to learning cs, and using com
   
 ### Community Service 
 
-  I enjoy working with community organizations that focus on cs education, and assissting communities adopt technology to improve their opperations. Some of my work includes advising underrepresented students on computing careers through virtual and in-person interactions, visiting high schools to present basics of cs, and assisting a medical facility in upgrading their electronic records system.
+  An important aspect of my work is to partner with community organizations that focus on cs education, and/or seek to adopt technology to improve their processes. Some of my work includes advising underrepresented students on computing careers through virtual and in-person interactions, visiting high schools to present basics of cs, and assisting a medical facility in upgrading their electronic records system.
 
 ### Personal 
 
-  I am from southern Puerto Rico. I enjoy playing sports and outdoors. My mother was a teacher in special education. 
+  I was born and raised in southern Puerto Rico. I enjoy playing sports and outdoors. My mother was a teacher in special education. 
 
