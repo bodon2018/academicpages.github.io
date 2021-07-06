@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am deeply passionate about facilitating experiences to learning cs, and using computing technologies to enhance human capabilities. I am a PhD student in the [Technology and Social Behavior program](https://tsb.northwestern.edu/tsb-program/), a joint program in Computer Science and Communication Studies. My research interests are in expansive learning opportunities for students from under-served communities, and collective reasoning in socio-technical systems. I work with [Marcelo Worsley](http://marceloworsley.com/) in the [tiilt lab](https://tiilt.northwestern.edu/), and [Agnes Horvat](http://www.agneshorvat.info/) in the [link lab](https://link.soc.northwestern.edu/). I earned a MS in Information Science from the University of Pittsburgh, and BS in Liberal Arts with a minor in Entrepernurship from the Pontifical Catholic University of Puerto Rico. Below you will find an overview of my work. For more information click [here](https://drive.google.com/drive/folders/1DgWIjp86ahIvt9AQFRCAs7vnoxrrJ_Pf?usp=sharing) to see my CV, or send me an email at bodon[at]u.northwestern.edu
+I am deeply passionate about providing experiences to learning cs, and using computing technologies to enhance human capabilities. I am a PhD student in the [Technology and Social Behavior program](https://tsb.northwestern.edu/tsb-program/), a joint program in Computer Science and Communication Studies. My research interests are in expansive learning opportunities for students from under-served communities, and collective reasoning in socio-technical systems. I work with [Marcelo Worsley](http://marceloworsley.com/) in the [tiilt lab](https://tiilt.northwestern.edu/), and [Agnes Horvat](http://www.agneshorvat.info/) in the [link lab](https://link.soc.northwestern.edu/). I earned a MS in Information Science from the University of Pittsburgh, and BS in Liberal Arts with a minor in Entrepernurship from the Pontifical Catholic University of Puerto Rico. Below you will find an overview of my work. For more information click [here](https://drive.google.com/drive/folders/1DgWIjp86ahIvt9AQFRCAs7vnoxrrJ_Pf?usp=sharing) to see my CV, or send me an email at bodon[at]u.northwestern.edu
 
 ### Publications
 
@@ -20,10 +20,10 @@ I am deeply passionate about facilitating experiences to learning cs, and using 
 
 ### Projects 
 
-1. Sports Sense: 
+* Sports Sense: 
     Investigating sports and physical education as an space to build student and coaches perceptions and interest in
     computer science. For more information check out this [site](https://tiilt.northwestern.edu/projects/sportsanalytics/index.html).   
-2. Online Dissemination of Science:
+* Online Dissemination of Science:
     Studying who is more likely to share and discuss retracted papers on Twitter before a scientific article is retracted. For more information check out this [site](https://link.soc.northwestern.edu/research/science-of-science-research/). 
 
 ### Teaching
