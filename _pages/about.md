@@ -18,23 +18,23 @@ I am a PhD student in the [Technology and Social Behavior program](https://tsb.n
 4. Sanchez, Chelsea; Franjione, Paige; Parker, Jalin; Brinner, Zachery; Bodon, Herminio; Bahm, Cristina. (2018). Understanding Landmarks in Spatial Information: Using Sentiment to Provide Context. iConference 2019.
 
 
-Projects 
------
+### Projects 
+
 1. Sports Sense: 
     Investigating sports and physical education as an space to build student and coaches perceptions and interest in
     computer science. For more information check out this [site](https://tiilt.northwestern.edu/projects/sportsanalytics/index.html).   
 2. Online Dissemination of Science:
     Studying who is more likely to share and discuss retracted papers on Twitter before a scientific article is retracted. For more information check out this [site](https://link.soc.northwestern.edu/research/science-of-science-research/). 
 
-Teaching
------
+### Teaching
+
   I taught developed and presented educational material for older adults (60+) and youths in the Homewood Community Engagement Center in Pitssburgh. 
   
-Community Service 
------
+### Community Service 
+
   I enjoy working with community organizationss that work on education. Some of my work includes advising underrepresented students on computing careers through virtual and in-person interactions, and visiting high schools to present basics of CS.
 
-Personal 
------
+### Personal 
+
   I am from southern Puerto Rico. I enjoy playing sports and outdoors.
 
