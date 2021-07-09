@@ -20,7 +20,7 @@ I am deeply passionate about assisting people learn computer science (cs) and us
 
 ### Projects
 
-* Sports Sense:
+* SportSense:
     Investigating sports and physical education as a space to build students' and coaches' perceptions and interest in
     cs. For more information, check out this [site](https://tiilt.northwestern.edu/projects/sportsanalytics/index.html).   
 * Online Dissemination of Science:
